@@ -2,7 +2,7 @@
 
 ## ![Header](./header.png)
 
-### 🔭 I’m currently working on ... looking for work!😱 🆘
+### 🔭 I’m currently working on an app to keep track of your gym exercises😱 🆘
 
 My passion for programming 💻 continues to intensify, like a spark igniting into a blazing fire. Collaborating within a team and tackling challenges is where I thrive. 🤓
 
